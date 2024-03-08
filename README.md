@@ -1,7 +1,12 @@
 - 👋 Hi, I’m Abdul Kareem Khan
 - I'm a passionate learner and developer with a keen interest in technology and its applications in solving real-world problems.
 
-- 👀 I’m interested in Web Development , Android Application Development, iOS Application Development, Desktop Application Development
+- 👀 I’m interested in
+- Web Development
+- Android Application Development
+- iOS Application Development
+- Desktop Application Development
+
 - 🌱 I’m currently learning ...
 - Java
 - Python
