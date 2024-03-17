@@ -6,11 +6,11 @@
 - Android Application Development
 - iOS Application Development
 - Desktop Application Development
+- 💞️ I’m looking to collaborate on open source projects related to web development, machine learning, or data science. If you have an interesting project idea, feel free to reach out!
+
 ## 🌱 I’m currently learning ...
 - Java
 - Python
-
-## 💞️ I’m looking to collaborate on open source projects related to web development, machine learning, or data science. If you have an interesting project idea, feel free to reach out!
 
 ## 📫 How to reach me ...
 - Email: infostndmaketech@gmail.com
